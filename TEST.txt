@@ -1,0 +1,41 @@
+Computer science
+It takes 5.4 seconds to run the query initially. Our dictionary that holds all the values and docid is way too large, it takes 5.2 seconds to iterate through all of them. Now we limit the amount of values for each query at 20 and the query takes around 300 ms.
+
+Information and Computer Science
+It takes 0.5 seconds for this query to run. We ordered the query words in order of importance to reduce the amount of docids in the set to make it run faster.
+
+Irvine
+The previous process breaks the query for one single word, fixing the issue. Query done in 0.03 seconds
+
+Computer Computer
+
+Climate change
+
+Google docs
+Could not find google cause the program to fail. Fixed issue where query could not be found.
+
+Student life
+
+Computer research
+
+2006
+
+artificial intelligence
+
+Cs 121
+
+Donald bren
+
+Irvine is best
+
+Graduate school
+
+Disability services
+
+Faculty profiles
+
+Uci ics lab
+
+Living at uci
+
+Technical documentation
